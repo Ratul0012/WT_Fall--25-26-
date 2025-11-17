@@ -69,8 +69,8 @@
     <br><br>
     <button type="submit">Register</button>
     </form>
-    
-    <hr>
+    </fieldset>
+    <br>
     <fieldset>
     <form>
        <h1>Activity Selection</h1>
@@ -81,10 +81,10 @@
     <br>
     <button type="submit">Add Activity</button>
     </form>
-    
+    </fieldset>
     
 </body>
-</fieldset>
+
 </html>
 
 
