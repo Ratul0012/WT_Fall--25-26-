@@ -74,12 +74,14 @@
     </fieldset>
     <br>
     <fieldset>
-    <form>
+
+    <form id="activityForm">
        <h1>Activity Selection</h1>
     Activity Name:
     <input type="text"id="activityname" >
     <br>
-    <button type="submit">Add Activity</button>
+    <button id=addactivity type="submit">Add Activity</button>
+    <div id="activityForm"></div>
     </form>
     </fieldset>
     
