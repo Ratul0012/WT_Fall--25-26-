@@ -50,34 +50,34 @@
     <h1>Participant Registration</h1>
     </center>
     
-    <form>
+    <form id="registrationForm">
 
    Full Name :<br>
-   <input type="text" >
+   <input type="text"id="fullname" >
     <br>
     Email :<br>
-    <input type="text" >
+    <input type="text"id="email" >
     <br>
     Phone Number :<br>
-    <input type="number" > 
+    <input type="number"id="phonenumber" > 
     <br>
     Password:<br>
-    <input type="password" >
+    <input type="password"id="password" >
     <br>
     Confirm Password:<br>
-    <input type="password" >
+    <input type="password"id="confirmpassword" >
     <br><br>
     <button type="submit">Register</button>
+
+    <div id="registrationForm"></div>
     </form>
     </fieldset>
     <br>
     <fieldset>
     <form>
        <h1>Activity Selection</h1>
-
-    
     Activity Name:
-    <input type="text" >
+    <input type="text"id="activityname" >
     <br>
     <button type="submit">Add Activity</button>
     </form>
