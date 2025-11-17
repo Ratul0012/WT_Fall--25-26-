@@ -4,6 +4,11 @@
     <title>Participant Registration</title>
 </head>
 <style>
+    body {
+        background-color: #f4f4f4;
+         padding: 20px;
+    }
+    
     
     input[type=text], input[type=number], input[type=password] {
         width: 300px;
@@ -31,6 +36,14 @@
     }
     
 </style>
+
+<script>
+
+
+
+</script>
+
+
 <fieldset>
 <body>
     <center>
@@ -56,6 +69,19 @@
     <br><br>
     <button type="submit">Register</button>
     </form>
+    
+    <hr>
+    <fieldset>
+    <form>
+       <h1>Activity Selection</h1>
+
+    
+    Activity Name:
+    <input type="text" >
+    <br>
+    <button type="submit">Add Activity</button>
+    </form>
+    
     
 </body>
 </fieldset>
