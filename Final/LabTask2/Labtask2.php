@@ -6,7 +6,11 @@
 </head>
 <body>
 <?php
-
+$name=$email=$dd=$mm=$yyyy="";
+$gender="";
+$degree="";
+$blood="";
+$nameErr=$emailErr=$dobErr=$genderErr=$degreeErr=$bloodErr="";
 
 
 
